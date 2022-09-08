@@ -1,0 +1,10 @@
+.tittle-container{
+
+    color: #EA899A;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
